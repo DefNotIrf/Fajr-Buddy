@@ -71,11 +71,6 @@ Fajr prayer occurs before sunrise, making it challenging for some to wake up on 
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
----
-
-## 👤 Author
-
-**Muhammad Irfan Rosdin**  
 Mechatronics Engineering, IIUM  
 ---
 
